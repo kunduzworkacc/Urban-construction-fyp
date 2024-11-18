@@ -1,0 +1,90 @@
+{
+  "navbar": {
+    "home": "Home",
+    "about": "About Us",
+    "projects": "Projects",
+    "news": "Our News",
+    "contact": "Contacts Information",
+    "textUs": "Text Us"
+  },
+  "footer": {
+    "developer": "Mukanbetova Kunduz",
+    "contact": "Contact:"
+  },
+  "aboutMe": {
+    "title": "About Me",
+    "description": "Hello! I am a professional model and a highly skilled web developer with two years of experience in web development. I graduated from Lincoln University and have worked on numerous projects involving modern web technologies. I am passionate about programming, creativity, and technology."
+  },
+  "home": {
+    "heading": "Welcome to Urban Construction",
+    "subheading": "Innovating the future, one project at a time.",
+    "intro": {
+      "title": "Who We Are",
+      "description": "Urban Construction is a leading company dedicated to delivering exceptional quality and innovative solutions in the construction industry."
+    },
+    "services": {
+      "title": "Our Services",
+      "service1": {
+        "title": "Residential Construction",
+        "description": "Building homes that combine comfort, style, and sustainability."
+      },
+      "service2": {
+        "title": "Commercial Projects",
+        "description": "Developing modern commercial spaces with innovative designs."
+      },
+      "service3": {
+        "title": "Renovations",
+        "description": "Transforming old spaces into modern, functional areas."
+      }
+    },
+    "testimonials": {
+      "title": "What Our Clients Say",
+      "testimonial1": "Urban Construction transformed my vision into reality. Highly recommended!",
+      "testimonial2": "Their team was professional, efficient, and creative throughout the process.",
+      "testimonial3": "The best construction company I've worked with. Exceptional quality and service."
+    },
+    "videoSection": {
+      "title": "Our Commitment to Excellence",
+      "description": "Discover how we bring innovation and precision to every project, ensuring the highest standards of quality and sustainability."
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "address": "Address: Business Center 'Avangard' Tower B",
+    "phone": "Phone: +996 773 555 444",
+    "email": "Email: urban_construction@elitka.kg",
+    "company": "Company: Urban Construction LLC, TIN 00308202010081",
+    "license": "License: KRC-2 No. 10546 dated 29.06.2022"
+  },
+  "projects": {
+    "description": {
+      "title": "Description",
+      "text": "Residential building 'NEO' in the Pishpek area. The building is located at the intersection of Gagarin and T. Frunze streets. This is a comfort-class project with exquisite architecture. Urban Construction offers buyers interest-free installment plans. This is a great opportunity for many families to get their own home. Installment terms: Period - 18 months without overpayment (0% installment). Initial payment - 30% of the total cost of the apartment. For detailed information, call: 0(773) 555 444."
+    },
+    "contact": "Contact: +996 773 555 444",
+    "map": {
+      "title": "Map of the NEO Residential Building"
+    }
+  },
+  "news": {
+    "title": "Our News",
+    "imageAlt": "Company news image",
+    "text1": "Stay updated with the latest news about our company, its projects, and achievements.",
+    "text2": "Urban Construction continues to innovate and deliver high-quality construction solutions.",
+    "text3": "We recently completed several projects that have set new benchmarks in the industry.",
+    "text4": "Our team is constantly working to provide the best services for our clients.",
+    "text5": "New updates about upcoming projects will be posted here regularly.",
+    "text6": "Urban Construction believes in transparency and keeping clients informed.",
+    "text7": "Follow us for more news and updates about our journey to build a better future."
+  },
+  "contact": {
+    "title": "Contact Us",
+    "description": "Have questions or need assistance? Reach out to us!",
+    "emailLabel": "Email",
+    "email": "info@urbanconstruction.com",
+    "phoneLabel": "Phone",
+    "phone": "+123 456 7890",
+    "addressLabel": "Address",
+    "address": "123 Urban St, Cityville"
+  }
+}
