@@ -15,14 +15,12 @@ const About = () => {
       {/* Avatar Section */}
       <div className="about-avatar">
         <img src="/images/about1.png" alt="Avatar" className="avatar" />
-        
-      <div className="about-info">
-        <p>{t('about.address')}</p>
-        <p>{t('about.phone')}</p>
-        <p>{t('about.email')}</p>
-        <p>{t('about.company')}</p>
-        <p>{t('about.license')}</p>
-     
+        <div className="about-info">
+          <p>{t('about.address')}</p>
+          <p>{t('about.phone')}</p>
+          <p>{t('about.email')}</p>
+          <p>{t('about.company')}</p>
+          <p>{t('about.license')}</p>
         </div>
       </div>
 
@@ -31,8 +29,6 @@ const About = () => {
         <img src="/images/about2.png" alt="About Us 2" />
         <img src="/images/about3.png" alt="About Us 3" />
       </div>
-
-     
     </div>
   );
 };
